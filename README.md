@@ -7,8 +7,8 @@ Curated archive scaffold for the aura-fit repository.
 - Separate future source material from maintenance notes.
 
 ## Structure
--  for archive notes
--  for content planning
+- `docs/README.md` for archive notes
+- `docs/INVENTORY.md` for content planning
 
 ## Status
 - Empty repository scaffolded for preservation and future imports
